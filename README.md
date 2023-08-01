@@ -16,11 +16,11 @@ Here are a few of the projects I am most proud of:-
 
 My tech stack is:-
 
--Programming languages: Python, Java, R
--Technologies/Frameworks: Git, TeX
--Statistical Softwares: Stata, R, Python
--Data Visualization Tools: Tableau, R, Python
--Database Query Tools:- SQL
+- Programming languages: Python, Java, R
+- Technologies/Frameworks: Git, TeX
+- Statistical Softwares: Stata, R, Python
+- Data Visualization Tools: Tableau, R, Python
+- Database Query Tools:- SQL
 
 My hobbies outside work are:-
 
