@@ -2,7 +2,7 @@
 
 Hi, I'm Anish
 
-I'm a data scientist with one year of relevant experience working as a graduate research assistant in two non-consecutive terms at Montana State University-Bozeman and as a data science intern at Data Glacier.
+I'm a data scientist with one year of relevant experience working as a graduate research assistant in two non-consecutive terms at Montana State University-Bozeman and as a data science intern at Data Glacier currently looking for work.
 
 Here are a few of the projects I am most proud of:-
 
